@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @piotrathiss
-- 👀 I’m interested in app`s web , robotics and Unity
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in apps, wed dev, robotics and Unreal Engine
+- 🌱 I’m currently learning C++ and Unrel Engine
+- 💞️ I’m looking to collaborate on some projects in UE5
+- 📫 How to reach me (ppicek@outlook.com)
 
 <!---
 piotrathiss/piotrathiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
